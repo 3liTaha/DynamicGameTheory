@@ -1,0 +1,1 @@
+- Nash Finder for strategic form games.
